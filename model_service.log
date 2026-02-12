@@ -1,0 +1,8 @@
+Starting model service...
+==================================================
+Loading Model Resources...
+==================================================
+Model Path: D:\RoadDamage Project\model\road_damage_detector.h5
+ Model loaded successfully!
+ Class indices loaded: 2 classes
+ Metadata loaded
